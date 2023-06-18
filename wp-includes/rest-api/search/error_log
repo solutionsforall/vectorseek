@@ -1,0 +1,116 @@
+[24-Jan-2022 20:18:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/ftsurncp/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[24-Jan-2022 20:18:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/ftsurncp/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[24-Jan-2022 20:19:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/ftsurncp/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[24-Jan-2022 20:23:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/ftsurncp/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[24-Jan-2022 20:24:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/ftsurncp/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[24-Jan-2022 20:24:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/ftsurncp/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[24-Jan-2022 20:29:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/ftsurncp/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[11-Feb-2022 09:16:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/ftsurncp/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[11-Feb-2022 09:16:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/ftsurncp/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[11-Feb-2022 09:20:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/ftsurncp/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[24-Feb-2022 09:35:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[24-Feb-2022 11:06:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[25-Feb-2022 08:13:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[01-Apr-2022 04:49:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[01-Apr-2022 04:51:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[01-Apr-2022 04:52:05 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[05-Oct-2022 09:24:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[05-Oct-2022 09:24:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[05-Oct-2022 09:25:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[05-Oct-2022 11:41:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[05-Oct-2022 11:42:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[05-Oct-2022 11:43:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[11-Oct-2022 21:32:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[11-Oct-2022 21:32:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[20-Jan-2023 12:35:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[20-Jan-2023 12:35:28 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[30-Jan-2023 00:37:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[30-Jan-2023 00:37:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[30-Jan-2023 00:37:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17

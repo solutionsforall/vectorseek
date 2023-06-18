@@ -1,0 +1,39 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Add your CSS code here.
+
+For example:
+.example {
+    color: red;
+}
+
+For brushing up on your CSS knowledge, check out http://www.w3schools.com/css/css_syntax.asp
+
+End of comment */ 
+
+ul#vectorschecklist {
+    -moz-column-count: 4;
+    -moz-column-gap: 20px;
+    -webkit-column-count: 4;
+    -webkit-column-gap: 20px;
+    column-count: 4;
+    column-gap: 15px;
+}
+ul#vectorschecklist-pop {
+    -moz-column-count: 4;
+    -moz-column-gap: 20px;
+    -webkit-column-count: 4;
+    -webkit-column-gap: 20px;
+    column-count: 4;
+    column-gap: 0px;
+}
+#vectors-all{
+  min-height: initial;
+  max-height: initial;
+  overflow: initial;
+}
+/* #postdivrich {
+    display: none;
+} */
+</style>
+<!-- end Simple Custom CSS and JS -->

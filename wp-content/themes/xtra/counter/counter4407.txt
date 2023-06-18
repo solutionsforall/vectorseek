@@ -1,0 +1,6 @@
+click-001||32
+click-002||51
+click-003||22
+click-004||13
+click-003||22
+click-004||13

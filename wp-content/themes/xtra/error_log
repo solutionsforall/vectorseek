@@ -1,0 +1,184 @@
+[09-Jan-2021 05:05:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[09-Jan-2021 05:05:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[12-Mar-2021 10:58:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[12-Mar-2021 10:58:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[15-Mar-2021 10:07:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[15-Mar-2021 10:07:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[15-Mar-2021 10:15:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[25-Mar-2021 12:05:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[25-Mar-2021 12:06:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[10-Apr-2021 15:19:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[10-Apr-2021 15:19:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[30-Jun-2021 03:12:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[01-Jul-2021 03:51:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[02-Jul-2021 08:35:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[05-Jul-2021 03:15:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[11-Jul-2021 07:12:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[11-Jul-2021 07:12:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[11-Jul-2021 07:13:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[11-Jul-2021 07:47:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[11-Jul-2021 07:54:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[11-Jul-2021 07:56:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[12-Jul-2021 06:09:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[13-Jul-2021 08:20:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[13-Jul-2021 08:20:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[14-Jul-2021 07:06:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_type() in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/single.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/single.php on line 2
+[14-Jul-2021 07:07:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_type() in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/single.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/single.php on line 2
+[15-Jul-2021 03:51:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[16-Jul-2021 05:31:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[23-Jul-2021 10:23:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[23-Jul-2021 10:24:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[24-Jul-2021 07:01:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[26-Jul-2021 06:01:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[26-Jul-2021 06:01:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[17-Nov-2021 22:29:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[17-Nov-2021 22:29:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[23-Nov-2021 02:10:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[26-Dec-2021 05:31:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[01-Jan-2022 02:50:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[01-Jan-2022 02:50:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[22-Jan-2022 20:26:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[25-Jan-2022 10:24:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/404.php on line 1
+[31-Jan-2022 19:59:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[31-Jan-2022 20:07:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[01-Feb-2022 00:44:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[23-Feb-2022 08:37:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/zarghamali/public_html/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-content/themes/xtra/index.php on line 1
+[22-Apr-2022 13:45:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Codevz_Theme' not found in /home/zarghamali/public_html/vectorseek.com/wp-content/themes/xtra/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-content/themes/xtra/index.php on line 1

@@ -1,0 +1,144 @@
+[24-Jan-2022 20:21:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/ftsurncp/vectorseek.com/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/theme-compat/footer.php on line 9
+[24-Jan-2022 20:21:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/ftsurncp/vectorseek.com/wp-includes/theme-compat/header-embed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/theme-compat/header-embed.php on line 19
+[24-Jan-2022 20:21:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/ftsurncp/vectorseek.com/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/theme-compat/sidebar.php on line 9
+[24-Jan-2022 20:22:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/ftsurncp/vectorseek.com/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/theme-compat/embed-content.php on line 13
+[24-Jan-2022 20:23:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/ftsurncp/vectorseek.com/wp-includes/theme-compat/embed-404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/theme-compat/embed-404.php on line 14
+[24-Jan-2022 20:23:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/ftsurncp/vectorseek.com/wp-includes/theme-compat/comments.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/theme-compat/comments.php on line 9
+[24-Jan-2022 20:23:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ftsurncp/vectorseek.com/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/theme-compat/embed.php on line 13
+[24-Jan-2022 20:23:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/ftsurncp/vectorseek.com/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/theme-compat/header.php on line 9
+[24-Jan-2022 20:26:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/ftsurncp/vectorseek.com/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/theme-compat/footer-embed.php on line 18
+[02-Feb-2022 02:56:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/ftsurncp/vectorseek.com/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/theme-compat/header.php on line 9
+[23-Feb-2022 10:08:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/comments.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/comments.php on line 9
+[24-Feb-2022 08:20:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/embed-404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/embed-404.php on line 14
+[24-Feb-2022 08:27:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/footer.php on line 9
+[24-Feb-2022 09:08:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/embed-content.php on line 13
+[25-Feb-2022 16:27:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/header-embed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/header-embed.php on line 19
+[25-Feb-2022 16:43:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/footer-embed.php on line 18
+[26-Feb-2022 09:25:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/sidebar.php on line 9
+[26-Feb-2022 10:18:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/embed.php on line 13
+[26-Feb-2022 10:25:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/header.php on line 9
+[26-Feb-2022 12:13:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/header.php on line 9
+[05-Oct-2022 09:42:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/comments.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/comments.php on line 9
+[05-Oct-2022 09:43:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/embed-404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/embed-404.php on line 14
+[05-Oct-2022 09:43:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/embed-content.php on line 13
+[05-Oct-2022 09:44:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/embed.php on line 13
+[05-Oct-2022 09:45:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/footer-embed.php on line 18
+[05-Oct-2022 09:45:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/footer.php on line 9
+[05-Oct-2022 09:46:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/header-embed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/header-embed.php on line 19
+[05-Oct-2022 09:46:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/header.php on line 9
+[05-Oct-2022 09:47:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/sidebar.php on line 9
+[09-Nov-2022 00:08:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/comments.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/comments.php on line 9
+[09-Nov-2022 00:08:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/footer.php on line 9
+[09-Nov-2022 01:04:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/header.php on line 9
+[09-Nov-2022 01:05:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/embed.php on line 13
+[26-Nov-2022 21:35:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/embed-content.php on line 13
+[09-Dec-2022 01:03:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/header.php on line 9
+[09-Dec-2022 01:03:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/theme-compat/embed.php on line 13

@@ -1,0 +1,20 @@
+[24-Jan-2022 20:18:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home/ftsurncp/vectorseek.com/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[11-Feb-2022 07:00:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home/ftsurncp/vectorseek.com/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[26-Feb-2022 09:21:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[01-Apr-2022 10:16:00 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[05-Oct-2022 09:05:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/rest-api/class-wp-rest-response.php on line 17

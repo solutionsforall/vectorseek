@@ -1,0 +1,380 @@
+[24-Jan-2022 20:22:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/typography.php:206
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/typography.php on line 206
+[24-Jan-2022 20:22:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/spacing.php on line 89
+[24-Jan-2022 20:22:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/layout.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/layout.php on line 99
+[24-Jan-2022 20:23:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/duotone.php:426
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/duotone.php on line 426
+[24-Jan-2022 20:23:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/align.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/align.php on line 60
+[24-Jan-2022 20:23:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/custom-classname.php on line 59
+[24-Jan-2022 20:23:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/generated-classname.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/generated-classname.php on line 67
+[24-Jan-2022 20:23:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/elements.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/elements.php on line 71
+[24-Jan-2022 20:23:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/border.php on line 170
+[24-Jan-2022 20:26:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/colors.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/colors.php on line 153
+[24-Jan-2022 20:39:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/typography.php:206
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/typography.php on line 206
+[24-Jan-2022 20:39:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/border.php on line 170
+[24-Jan-2022 20:39:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/spacing.php on line 89
+[24-Jan-2022 20:39:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/layout.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/layout.php on line 99
+[24-Jan-2022 20:39:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/elements.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/elements.php on line 71
+[24-Jan-2022 20:39:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/duotone.php:426
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/duotone.php on line 426
+[24-Jan-2022 20:39:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/align.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/align.php on line 60
+[24-Jan-2022 20:39:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/generated-classname.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/generated-classname.php on line 67
+[24-Jan-2022 20:41:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/custom-classname.php on line 59
+[24-Jan-2022 20:41:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/colors.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/colors.php on line 153
+[26-Jan-2022 05:05:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/align.php on line 59
+[26-Jan-2022 05:06:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/border.php:189
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/border.php on line 189
+[26-Jan-2022 05:07:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/colors.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/colors.php on line 153
+[26-Jan-2022 05:09:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/custom-classname.php on line 59
+[26-Jan-2022 05:14:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/duotone.php:534
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/duotone.php on line 534
+[26-Jan-2022 05:23:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/elements.php:86
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/elements.php on line 86
+[26-Jan-2022 09:20:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/dimensions.php:84
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/dimensions.php on line 84
+[26-Jan-2022 09:41:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/generated-classname.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/generated-classname.php on line 67
+[26-Jan-2022 09:41:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/layout.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/layout.php on line 194
+[26-Jan-2022 09:42:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/spacing.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/spacing.php on line 99
+[26-Jan-2022 09:43:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/typography.php:218
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/block-supports/typography.php on line 218
+[15-Mar-2022 18:28:28 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/align.php on line 59
+[15-Mar-2022 18:32:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/align.php on line 59
+[15-Mar-2022 18:51:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/spacing.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/spacing.php on line 99
+[15-Mar-2022 19:07:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/elements.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/elements.php on line 76
+[15-Mar-2022 19:10:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/spacing.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/spacing.php on line 99
+[15-Mar-2022 19:18:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/elements.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/elements.php on line 76
+[16-Mar-2022 04:26:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/colors.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/colors.php on line 153
+[16-Mar-2022 04:30:00 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/border.php:189
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/border.php on line 189
+[16-Mar-2022 04:33:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/typography.php:218
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/typography.php on line 218
+[16-Mar-2022 04:38:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/custom-classname.php on line 59
+[16-Mar-2022 04:43:14 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/typography.php:218
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/typography.php on line 218
+[16-Mar-2022 04:46:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/layout.php:184
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/layout.php on line 184
+[16-Mar-2022 04:47:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/custom-classname.php on line 59
+[16-Mar-2022 04:51:04 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/colors.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/colors.php on line 153
+[16-Mar-2022 05:09:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/layout.php:184
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/layout.php on line 184
+[16-Mar-2022 05:13:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/border.php:189
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/border.php on line 189
+[18-Mar-2022 16:06:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/align.php on line 59
+[18-Mar-2022 16:06:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/border.php:189
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/border.php on line 189
+[18-Mar-2022 16:07:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/colors.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/colors.php on line 153
+[18-Mar-2022 16:13:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/custom-classname.php on line 59
+[18-Mar-2022 16:29:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/duotone.php:580
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/duotone.php on line 580
+[18-Mar-2022 16:48:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/elements.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/elements.php on line 76
+[18-Mar-2022 18:10:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/generated-classname.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/generated-classname.php on line 67
+[18-Mar-2022 18:14:45 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/generated-classname.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/generated-classname.php on line 67
+[18-Mar-2022 19:51:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/dimensions.php:84
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/dimensions.php on line 84
+[18-Mar-2022 20:49:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/generated-classname.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/generated-classname.php on line 67
+[18-Mar-2022 20:50:00 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/layout.php:184
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/layout.php on line 184
+[18-Mar-2022 20:51:00 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/spacing.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/spacing.php on line 99
+[18-Mar-2022 20:53:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/typography.php:218
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/typography.php on line 218
+[23-Sep-2022 06:34:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/colors.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/colors.php on line 152
+[05-Oct-2022 08:16:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/align.php on line 59
+[05-Oct-2022 08:16:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/border.php:176
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/border.php on line 176
+[05-Oct-2022 08:17:04 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/colors.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/colors.php on line 152
+[05-Oct-2022 08:17:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/custom-classname.php on line 59
+[05-Oct-2022 08:17:55 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/dimensions.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/dimensions.php on line 67
+[05-Oct-2022 08:18:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/duotone.php:580
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/duotone.php on line 580
+[05-Oct-2022 08:18:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/elements.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/elements.php on line 138
+[05-Oct-2022 08:19:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/generated-classname.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/generated-classname.php on line 67
+[05-Oct-2022 08:19:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/layout.php:226
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/layout.php on line 226
+[05-Oct-2022 08:20:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/spacing.php on line 83
+[05-Oct-2022 08:20:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/typography.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/typography.php on line 217
+[26-Oct-2022 06:30:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/elements.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/elements.php on line 138
+[26-Oct-2022 06:30:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/elements.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/elements.php on line 138
+[30-Oct-2022 06:55:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/elements.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/elements.php on line 138
+[30-Oct-2022 06:56:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/spacing.php on line 83
+[22-Dec-2022 17:04:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/spacing.php on line 83
+[27-Dec-2022 21:08:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/border.php:176
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/border.php on line 176
+[27-Dec-2022 21:08:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/dimensions.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/dimensions.php on line 67
+[27-Dec-2022 21:09:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/duotone.php:580
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/duotone.php on line 580
+[27-Dec-2022 21:09:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/elements.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/elements.php on line 138
+[27-Dec-2022 21:09:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/layout.php:226
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/layout.php on line 226
+[27-Dec-2022 21:09:55 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/spacing.php on line 83
+[04-Jan-2023 13:54:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/border.php:176
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/border.php on line 176
+[04-Jan-2023 13:54:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/dimensions.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/dimensions.php on line 67
+[04-Jan-2023 13:54:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/duotone.php:580
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/duotone.php on line 580
+[04-Jan-2023 13:55:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/elements.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/elements.php on line 138
+[04-Jan-2023 13:55:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/layout.php:226
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/layout.php on line 226
+[04-Jan-2023 13:55:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/spacing.php on line 83
+[09-Jan-2023 15:49:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/border.php:176
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/border.php on line 176
+[09-Jan-2023 15:49:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/dimensions.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/dimensions.php on line 67
+[09-Jan-2023 15:49:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/duotone.php:580
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/duotone.php on line 580
+[09-Jan-2023 15:49:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/elements.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/elements.php on line 138
+[09-Jan-2023 15:49:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/layout.php:226
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/layout.php on line 226
+[09-Jan-2023 15:49:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/block-supports/spacing.php on line 83

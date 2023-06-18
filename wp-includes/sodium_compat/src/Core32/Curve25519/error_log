@@ -1,0 +1,16 @@
+[24-Jan-2022 20:31:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/src/Core32/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/src/Core32/Curve25519/H.php on line 12
+[16-Feb-2022 02:50:56 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core32/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core32/Curve25519/H.php on line 12
+[27-Feb-2022 18:53:05 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core32/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core32/Curve25519/H.php on line 12
+[27-Jan-2023 16:25:47 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core32/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core32/Curve25519/H.php on line 12

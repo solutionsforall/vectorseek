@@ -1,0 +1,16 @@
+[24-Jan-2022 20:24:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[24-Jan-2022 20:29:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[27-Feb-2022 13:29:08 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[05-Oct-2022 09:35:32 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/lib/ristretto255.php on line 6

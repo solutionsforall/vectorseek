@@ -1,0 +1,28 @@
+[24-Jan-2022 20:27:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20_Ctx' not found in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10
+[24-Jan-2022 20:28:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[24-Jan-2022 20:33:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20_Ctx' not found in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10
+[14-Feb-2022 13:16:20 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[14-Feb-2022 13:17:00 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20_Ctx' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10
+[27-Feb-2022 18:54:21 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20_Ctx' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10
+[27-Feb-2022 20:36:58 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10

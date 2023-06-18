@@ -1,0 +1,856 @@
+[18-Apr-2023 07:56:00 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') )
+                
+                
+                
+                
+...' at line 40 for query 
+    		SELECT
+    		    
+    		    
+                wpko_posts.post_title as title,
+                wpko_posts.post_title as post_title,
+                wpko_posts.ID as id,
+                1 as blogid,
+                wpko_posts.post_date as date,
+                wpko_posts.post_date as post_date,
+                wpko_posts.post_content as content,
+                wpko_posts.post_excerpt as excerpt,
+                wpko_posts.post_type as post_type,
+                'pagepost' as content_type,
+                'post_page_cpt' as g_content_type,
+                (SELECT
+                    wpko_users.display_name as author
+                    FROM wpko_users
+                    WHERE wpko_users.ID = wpko_posts.post_author
+                ) as author,
+                wpko_posts.post_author as post_author,
+                wpko_posts.post_type as post_type,
+                100 AS priority,
+                1 AS p_type_priority,
+                1 AS group_priority,
+                (1) as relevance,
+                1  as customfp,
+                1  as customfs
+            FROM wpko_posts
+                
+                
+                
+                
+            WHERE
+                (wpko_posts.post_type IN ('vector_logo') )
+                
+                
+                AND (1)
+                AND (wpko_posts.post_status IN ('publish') )
+                 AND ( wpko_posts.post_password = '' )
+                AND ( () )
+                
+                
+                
+                
+                AND ( (1) )
+                
+                
+                
+                
+            GROUP BY
+                wpko_posts.ID
+            ORDER BY  group_priority DESC,  priority DESC, p_type_priority ASC, relevance DESC, wpko_posts.post_date DESC, id DESC
+            LIMIT 10000 made by do_action('ASP_ajaxsearchpro_search'), WP_Hook->do_action, WP_Hook->apply_filters, WD_ASP_Search_Handler->handle, ASP_Query->__construct, ASP_Query->get_posts, ASP_Search->search, ASP_Search_CPT->do_search
+[18-Apr-2023 07:56:00 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') )
+                
+                
+                
+                
+...' at line 40 for query 
+    		SELECT
+    		    
+    		    
+                wpko_posts.post_title as title,
+                wpko_posts.post_title as post_title,
+                wpko_posts.ID as id,
+                1 as blogid,
+                wpko_posts.post_date as date,
+                wpko_posts.post_date as post_date,
+                wpko_posts.post_content as content,
+                wpko_posts.post_excerpt as excerpt,
+                wpko_posts.post_type as post_type,
+                'pagepost' as content_type,
+                'post_page_cpt' as g_content_type,
+                (SELECT
+                    wpko_users.display_name as author
+                    FROM wpko_users
+                    WHERE wpko_users.ID = wpko_posts.post_author
+                ) as author,
+                wpko_posts.post_author as post_author,
+                wpko_posts.post_type as post_type,
+                100 AS priority,
+                1 AS p_type_priority,
+                1 AS group_priority,
+                (1) as relevance,
+                1  as customfp,
+                1  as customfs
+            FROM wpko_posts
+                
+                
+                
+                
+            WHERE
+                (wpko_posts.post_type IN ('vector_logo') )
+                
+                
+                AND (1)
+                AND (wpko_posts.post_status IN ('publish') )
+                 AND ( wpko_posts.post_password = '' )
+                AND ( () )
+                
+                
+                
+                
+                AND ( (1) )
+                
+                
+                
+                
+            GROUP BY
+                wpko_posts.ID
+            ORDER BY  group_priority DESC,  priority DESC, p_type_priority ASC, relevance DESC, wpko_posts.post_date DESC, id DESC
+            LIMIT 10000 made by do_action('ASP_ajaxsearchpro_search'), WP_Hook->do_action, WP_Hook->apply_filters, WD_ASP_Search_Handler->handle, ASP_Query->__construct, ASP_Query->get_posts, ASP_Search->search, ASP_Search_CPT->do_search
+[18-Apr-2023 07:56:01 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') )
+                
+                
+                
+                
+...' at line 40 for query 
+    		SELECT
+    		    
+    		    
+                wpko_posts.post_title as title,
+                wpko_posts.post_title as post_title,
+                wpko_posts.ID as id,
+                1 as blogid,
+                wpko_posts.post_date as date,
+                wpko_posts.post_date as post_date,
+                wpko_posts.post_content as content,
+                wpko_posts.post_excerpt as excerpt,
+                wpko_posts.post_type as post_type,
+                'pagepost' as content_type,
+                'post_page_cpt' as g_content_type,
+                (SELECT
+                    wpko_users.display_name as author
+                    FROM wpko_users
+                    WHERE wpko_users.ID = wpko_posts.post_author
+                ) as author,
+                wpko_posts.post_author as post_author,
+                wpko_posts.post_type as post_type,
+                100 AS priority,
+                1 AS p_type_priority,
+                1 AS group_priority,
+                (1) as relevance,
+                1  as customfp,
+                1  as customfs
+            FROM wpko_posts
+                
+                
+                
+                
+            WHERE
+                (wpko_posts.post_type IN ('vector_logo') )
+                
+                
+                AND (1)
+                AND (wpko_posts.post_status IN ('publish') )
+                 AND ( wpko_posts.post_password = '' )
+                AND ( () )
+                
+                
+                
+                
+                AND ( (1) )
+                
+                
+                
+                
+            GROUP BY
+                wpko_posts.ID
+            ORDER BY  group_priority DESC,  priority DESC, p_type_priority ASC, relevance DESC, wpko_posts.post_date DESC, id DESC
+            LIMIT 10000 made by do_action('ASP_ajaxsearchpro_search'), WP_Hook->do_action, WP_Hook->apply_filters, WD_ASP_Search_Handler->handle, ASP_Query->__construct, ASP_Query->get_posts, ASP_Search->search, ASP_Search_CPT->do_search
+[18-Apr-2023 07:56:17 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') )
+                
+                
+                
+                
+...' at line 40 for query 
+    		SELECT
+    		    
+    		    
+                wpko_posts.post_title as title,
+                wpko_posts.post_title as post_title,
+                wpko_posts.ID as id,
+                1 as blogid,
+                wpko_posts.post_date as date,
+                wpko_posts.post_date as post_date,
+                wpko_posts.post_content as content,
+                wpko_posts.post_excerpt as excerpt,
+                wpko_posts.post_type as post_type,
+                'pagepost' as content_type,
+                'post_page_cpt' as g_content_type,
+                (SELECT
+                    wpko_users.display_name as author
+                    FROM wpko_users
+                    WHERE wpko_users.ID = wpko_posts.post_author
+                ) as author,
+                wpko_posts.post_author as post_author,
+                wpko_posts.post_type as post_type,
+                100 AS priority,
+                1 AS p_type_priority,
+                1 AS group_priority,
+                (1) as relevance,
+                1  as customfp,
+                1  as customfs
+            FROM wpko_posts
+                
+                
+                
+                
+            WHERE
+                (wpko_posts.post_type IN ('vector_logo') )
+                
+                
+                AND (1)
+                AND (wpko_posts.post_status IN ('publish') )
+                 AND ( wpko_posts.post_password = '' )
+                AND ( () )
+                
+                
+                
+                
+                AND ( (1) )
+                
+                
+                
+                
+            GROUP BY
+                wpko_posts.ID
+            ORDER BY  group_priority DESC,  priority DESC, p_type_priority ASC, relevance DESC, wpko_posts.post_date DESC, id DESC
+            LIMIT 10000 made by do_action('ASP_ajaxsearchpro_search'), WP_Hook->do_action, WP_Hook->apply_filters, WD_ASP_Search_Handler->handle, ASP_Query->__construct, ASP_Query->get_posts, ASP_Search->search, ASP_Search_CPT->do_search
+[18-Apr-2023 07:56:18 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') )
+                
+                
+                
+                
+...' at line 40 for query 
+    		SELECT
+    		    
+    		    
+                wpko_posts.post_title as title,
+                wpko_posts.post_title as post_title,
+                wpko_posts.ID as id,
+                1 as blogid,
+                wpko_posts.post_date as date,
+                wpko_posts.post_date as post_date,
+                wpko_posts.post_content as content,
+                wpko_posts.post_excerpt as excerpt,
+                wpko_posts.post_type as post_type,
+                'pagepost' as content_type,
+                'post_page_cpt' as g_content_type,
+                (SELECT
+                    wpko_users.display_name as author
+                    FROM wpko_users
+                    WHERE wpko_users.ID = wpko_posts.post_author
+                ) as author,
+                wpko_posts.post_author as post_author,
+                wpko_posts.post_type as post_type,
+                100 AS priority,
+                1 AS p_type_priority,
+                1 AS group_priority,
+                (1) as relevance,
+                1  as customfp,
+                1  as customfs
+            FROM wpko_posts
+                
+                
+                
+                
+            WHERE
+                (wpko_posts.post_type IN ('vector_logo') )
+                
+                
+                AND (1)
+                AND (wpko_posts.post_status IN ('publish') )
+                 AND ( wpko_posts.post_password = '' )
+                AND ( () )
+                
+                
+                
+                
+                AND ( (1) )
+                
+                
+                
+                
+            GROUP BY
+                wpko_posts.ID
+            ORDER BY  group_priority DESC,  priority DESC, p_type_priority ASC, relevance DESC, wpko_posts.post_date DESC, id DESC
+            LIMIT 10000 made by do_action('ASP_ajaxsearchpro_search'), WP_Hook->do_action, WP_Hook->apply_filters, WD_ASP_Search_Handler->handle, ASP_Query->__construct, ASP_Query->get_posts, ASP_Search->search, ASP_Search_CPT->do_search
+[18-Apr-2023 07:56:19 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') )
+                
+                
+                
+                
+...' at line 40 for query 
+    		SELECT
+    		    
+    		    
+                wpko_posts.post_title as title,
+                wpko_posts.post_title as post_title,
+                wpko_posts.ID as id,
+                1 as blogid,
+                wpko_posts.post_date as date,
+                wpko_posts.post_date as post_date,
+                wpko_posts.post_content as content,
+                wpko_posts.post_excerpt as excerpt,
+                wpko_posts.post_type as post_type,
+                'pagepost' as content_type,
+                'post_page_cpt' as g_content_type,
+                (SELECT
+                    wpko_users.display_name as author
+                    FROM wpko_users
+                    WHERE wpko_users.ID = wpko_posts.post_author
+                ) as author,
+                wpko_posts.post_author as post_author,
+                wpko_posts.post_type as post_type,
+                100 AS priority,
+                1 AS p_type_priority,
+                1 AS group_priority,
+                (1) as relevance,
+                1  as customfp,
+                1  as customfs
+            FROM wpko_posts
+                
+                
+                
+                
+            WHERE
+                (wpko_posts.post_type IN ('vector_logo') )
+                
+                
+                AND (1)
+                AND (wpko_posts.post_status IN ('publish') )
+                 AND ( wpko_posts.post_password = '' )
+                AND ( () )
+                
+                
+                
+                
+                AND ( (1) )
+                
+                
+                
+                
+            GROUP BY
+                wpko_posts.ID
+            ORDER BY  group_priority DESC,  priority DESC, p_type_priority ASC, relevance DESC, wpko_posts.post_date DESC, id DESC
+            LIMIT 10000 made by do_action('ASP_ajaxsearchpro_search'), WP_Hook->do_action, WP_Hook->apply_filters, WD_ASP_Search_Handler->handle, ASP_Query->__construct, ASP_Query->get_posts, ASP_Search->search, ASP_Search_CPT->do_search
+[18-Apr-2023 07:56:19 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') )
+                
+                
+                
+                
+...' at line 40 for query 
+    		SELECT
+    		    
+    		    
+                wpko_posts.post_title as title,
+                wpko_posts.post_title as post_title,
+                wpko_posts.ID as id,
+                1 as blogid,
+                wpko_posts.post_date as date,
+                wpko_posts.post_date as post_date,
+                wpko_posts.post_content as content,
+                wpko_posts.post_excerpt as excerpt,
+                wpko_posts.post_type as post_type,
+                'pagepost' as content_type,
+                'post_page_cpt' as g_content_type,
+                (SELECT
+                    wpko_users.display_name as author
+                    FROM wpko_users
+                    WHERE wpko_users.ID = wpko_posts.post_author
+                ) as author,
+                wpko_posts.post_author as post_author,
+                wpko_posts.post_type as post_type,
+                100 AS priority,
+                1 AS p_type_priority,
+                1 AS group_priority,
+                (1) as relevance,
+                1  as customfp,
+                1  as customfs
+            FROM wpko_posts
+                
+                
+                
+                
+            WHERE
+                (wpko_posts.post_type IN ('vector_logo') )
+                
+                
+                AND (1)
+                AND (wpko_posts.post_status IN ('publish') )
+                 AND ( wpko_posts.post_password = '' )
+                AND ( () )
+                
+                
+                
+                
+                AND ( (1) )
+                
+                
+                
+                
+            GROUP BY
+                wpko_posts.ID
+            ORDER BY  group_priority DESC,  priority DESC, p_type_priority ASC, relevance DESC, wpko_posts.post_date DESC, id DESC
+            LIMIT 10000 made by do_action('ASP_ajaxsearchpro_search'), WP_Hook->do_action, WP_Hook->apply_filters, WD_ASP_Search_Handler->handle, ASP_Query->__construct, ASP_Query->get_posts, ASP_Search->search, ASP_Search_CPT->do_search
+[18-Apr-2023 07:56:22 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') )
+                
+                
+                
+                
+...' at line 40 for query 
+    		SELECT
+    		    
+    		    
+                wpko_posts.post_title as title,
+                wpko_posts.post_title as post_title,
+                wpko_posts.ID as id,
+                1 as blogid,
+                wpko_posts.post_date as date,
+                wpko_posts.post_date as post_date,
+                wpko_posts.post_content as content,
+                wpko_posts.post_excerpt as excerpt,
+                wpko_posts.post_type as post_type,
+                'pagepost' as content_type,
+                'post_page_cpt' as g_content_type,
+                (SELECT
+                    wpko_users.display_name as author
+                    FROM wpko_users
+                    WHERE wpko_users.ID = wpko_posts.post_author
+                ) as author,
+                wpko_posts.post_author as post_author,
+                wpko_posts.post_type as post_type,
+                100 AS priority,
+                1 AS p_type_priority,
+                1 AS group_priority,
+                (1) as relevance,
+                1  as customfp,
+                1  as customfs
+            FROM wpko_posts
+                
+                
+                
+                
+            WHERE
+                (wpko_posts.post_type IN ('vector_logo') )
+                
+                
+                AND (1)
+                AND (wpko_posts.post_status IN ('publish') )
+                 AND ( wpko_posts.post_password = '' )
+                AND ( () )
+                
+                
+                
+                
+                AND ( (1) )
+                
+                
+                
+                
+            GROUP BY
+                wpko_posts.ID
+            ORDER BY  group_priority DESC,  priority DESC, p_type_priority ASC, relevance DESC, wpko_posts.post_date DESC, id DESC
+            LIMIT 10000 made by do_action('ASP_ajaxsearchpro_search'), WP_Hook->do_action, WP_Hook->apply_filters, WD_ASP_Search_Handler->handle, ASP_Query->__construct, ASP_Query->get_posts, ASP_Search->search, ASP_Search_CPT->do_search
+[18-Apr-2023 07:56:23 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') )
+                
+                
+                
+                
+...' at line 40 for query 
+    		SELECT
+    		    
+    		    
+                wpko_posts.post_title as title,
+                wpko_posts.post_title as post_title,
+                wpko_posts.ID as id,
+                1 as blogid,
+                wpko_posts.post_date as date,
+                wpko_posts.post_date as post_date,
+                wpko_posts.post_content as content,
+                wpko_posts.post_excerpt as excerpt,
+                wpko_posts.post_type as post_type,
+                'pagepost' as content_type,
+                'post_page_cpt' as g_content_type,
+                (SELECT
+                    wpko_users.display_name as author
+                    FROM wpko_users
+                    WHERE wpko_users.ID = wpko_posts.post_author
+                ) as author,
+                wpko_posts.post_author as post_author,
+                wpko_posts.post_type as post_type,
+                100 AS priority,
+                1 AS p_type_priority,
+                1 AS group_priority,
+                (1) as relevance,
+                1  as customfp,
+                1  as customfs
+            FROM wpko_posts
+                
+                
+                
+                
+            WHERE
+                (wpko_posts.post_type IN ('vector_logo') )
+                
+                
+                AND (1)
+                AND (wpko_posts.post_status IN ('publish') )
+                 AND ( wpko_posts.post_password = '' )
+                AND ( () )
+                
+                
+                
+                
+                AND ( (1) )
+                
+                
+                
+                
+            GROUP BY
+                wpko_posts.ID
+            ORDER BY  group_priority DESC,  priority DESC, p_type_priority ASC, relevance DESC, wpko_posts.post_date DESC, id DESC
+            LIMIT 10000 made by do_action('ASP_ajaxsearchpro_search'), WP_Hook->do_action, WP_Hook->apply_filters, WD_ASP_Search_Handler->handle, ASP_Query->__construct, ASP_Query->get_posts, ASP_Search->search, ASP_Search_CPT->do_search
+[18-Apr-2023 07:56:25 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') )
+                
+                
+                
+                
+...' at line 40 for query 
+    		SELECT
+    		    
+    		    
+                wpko_posts.post_title as title,
+                wpko_posts.post_title as post_title,
+                wpko_posts.ID as id,
+                1 as blogid,
+                wpko_posts.post_date as date,
+                wpko_posts.post_date as post_date,
+                wpko_posts.post_content as content,
+                wpko_posts.post_excerpt as excerpt,
+                wpko_posts.post_type as post_type,
+                'pagepost' as content_type,
+                'post_page_cpt' as g_content_type,
+                (SELECT
+                    wpko_users.display_name as author
+                    FROM wpko_users
+                    WHERE wpko_users.ID = wpko_posts.post_author
+                ) as author,
+                wpko_posts.post_author as post_author,
+                wpko_posts.post_type as post_type,
+                100 AS priority,
+                1 AS p_type_priority,
+                1 AS group_priority,
+                (1) as relevance,
+                1  as customfp,
+                1  as customfs
+            FROM wpko_posts
+                
+                
+                
+                
+            WHERE
+                (wpko_posts.post_type IN ('vector_logo') )
+                
+                
+                AND (1)
+                AND (wpko_posts.post_status IN ('publish') )
+                 AND ( wpko_posts.post_password = '' )
+                AND ( () )
+                
+                
+                
+                
+                AND ( (1) )
+                
+                
+                
+                
+            GROUP BY
+                wpko_posts.ID
+            ORDER BY  group_priority DESC,  priority DESC, p_type_priority ASC, relevance DESC, wpko_posts.post_date DESC, id DESC
+            LIMIT 10000 made by do_action('ASP_ajaxsearchpro_search'), WP_Hook->do_action, WP_Hook->apply_filters, WD_ASP_Search_Handler->handle, ASP_Query->__construct, ASP_Query->get_posts, ASP_Search->search, ASP_Search_CPT->do_search
+[18-Apr-2023 07:59:22 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') )
+                
+                
+                
+                
+...' at line 68 for query 
+    		SELECT
+    		    
+    		    
+                wpko_posts.post_title as title,
+                wpko_posts.post_title as post_title,
+                wpko_posts.ID as id,
+                1 as blogid,
+                wpko_posts.post_date as date,
+                wpko_posts.post_date as post_date,
+                wpko_posts.post_content as content,
+                wpko_posts.post_excerpt as excerpt,
+                wpko_posts.post_type as post_type,
+                'pagepost' as content_type,
+                'post_page_cpt' as g_content_type,
+                (SELECT
+                    wpko_users.display_name as author
+                    FROM wpko_users
+                    WHERE wpko_users.ID = wpko_posts.post_author
+                ) as author,
+                wpko_posts.post_author as post_author,
+                wpko_posts.post_type as post_type,
+                100 AS priority,
+                
+                        CASE wpko_posts.post_type
+                     
+                    WHEN 'post' THEN 0 
+                    WHEN 'page' THEN 1 
+                    WHEN 'attachment' THEN 2 
+                    WHEN 'revision' THEN 3 
+                    WHEN 'nav_menu_item' THEN 4 
+                    WHEN 'custom_css' THEN 5 
+                    WHEN 'customize_changeset' THEN 6 
+                    WHEN 'oembed_cache' THEN 7 
+                    WHEN 'user_request' THEN 8 
+                    WHEN 'wp_block' THEN 9 
+                    WHEN 'wp_template' THEN 10 
+                    WHEN 'wp_template_part' THEN 11 
+                    WHEN 'wp_global_styles' THEN 12 
+                    WHEN 'wp_navigation' THEN 13 
+                    WHEN 'wpforms' THEN 14 
+                    WHEN 'scheduled-action' THEN 15 
+                    WHEN 'wpforms_log' THEN 16 
+                    WHEN 'acf-field-group' THEN 17 
+                    WHEN 'acf-field' THEN 18 
+                    WHEN 'custom-css-js' THEN 19 
+                    WHEN 'trending_categories' THEN 20 
+                    WHEN 'vc_grid_item' THEN 21 
+                    WHEN 'vector_logo' THEN 22 
+                    WHEN 'vc4_templates' THEN 23 
+                          ELSE 999
+                        END  AS p_type_priority,
+                1 AS group_priority,
+                (1) as relevance,
+                1  as customfp,
+                1  as customfs
+            FROM wpko_posts
+                
+                
+                
+                
+            WHERE
+                (wpko_posts.post_type IN ('vector_logo') )
+                
+                
+                AND (1)
+                AND (wpko_posts.post_status IN ('publish') )
+                 AND ( wpko_posts.post_password = '' )
+                AND ( () )
+                
+                
+                
+                
+                AND ( (1) )
+                
+                
+                
+                
+            GROUP BY
+                wpko_posts.ID
+            ORDER BY  group_priority DESC,  priority DESC, p_type_priority ASC, wpko_posts.post_title ASC, relevance DESC, id DESC
+            LIMIT 10000 made by do_action('ASP_ajaxsearchpro_search'), WP_Hook->do_action, WP_Hook->apply_filters, WD_ASP_Search_Handler->handle, ASP_Query->__construct, ASP_Query->get_posts, ASP_Search->search, ASP_Search_CPT->do_search
+[18-Apr-2023 08:01:44 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') )
+                
+                
+                
+                
+...' at line 68 for query 
+    		SELECT
+    		    
+    		    
+                wpko_posts.post_title as title,
+                wpko_posts.post_title as post_title,
+                wpko_posts.ID as id,
+                1 as blogid,
+                wpko_posts.post_date as date,
+                wpko_posts.post_date as post_date,
+                wpko_posts.post_content as content,
+                wpko_posts.post_excerpt as excerpt,
+                wpko_posts.post_type as post_type,
+                'pagepost' as content_type,
+                'post_page_cpt' as g_content_type,
+                (SELECT
+                    wpko_users.display_name as author
+                    FROM wpko_users
+                    WHERE wpko_users.ID = wpko_posts.post_author
+                ) as author,
+                wpko_posts.post_author as post_author,
+                wpko_posts.post_type as post_type,
+                100 AS priority,
+                
+                        CASE wpko_posts.post_type
+                     
+                    WHEN 'post' THEN 0 
+                    WHEN 'page' THEN 1 
+                    WHEN 'attachment' THEN 2 
+                    WHEN 'revision' THEN 3 
+                    WHEN 'nav_menu_item' THEN 4 
+                    WHEN 'custom_css' THEN 5 
+                    WHEN 'customize_changeset' THEN 6 
+                    WHEN 'oembed_cache' THEN 7 
+                    WHEN 'user_request' THEN 8 
+                    WHEN 'wp_block' THEN 9 
+                    WHEN 'wp_template' THEN 10 
+                    WHEN 'wp_template_part' THEN 11 
+                    WHEN 'wp_global_styles' THEN 12 
+                    WHEN 'wp_navigation' THEN 13 
+                    WHEN 'wpforms' THEN 14 
+                    WHEN 'scheduled-action' THEN 15 
+                    WHEN 'wpforms_log' THEN 16 
+                    WHEN 'acf-field-group' THEN 17 
+                    WHEN 'acf-field' THEN 18 
+                    WHEN 'custom-css-js' THEN 19 
+                    WHEN 'trending_categories' THEN 20 
+                    WHEN 'vc_grid_item' THEN 21 
+                    WHEN 'vector_logo' THEN 22 
+                    WHEN 'vc4_templates' THEN 23 
+                          ELSE 999
+                        END  AS p_type_priority,
+                1 AS group_priority,
+                (1) as relevance,
+                1  as customfp,
+                1  as customfs
+            FROM wpko_posts
+                
+                
+                
+                
+            WHERE
+                (wpko_posts.post_type IN ('vector_logo') )
+                
+                
+                AND (1)
+                AND (wpko_posts.post_status IN ('publish') )
+                 AND ( wpko_posts.post_password = '' )
+                AND ( () )
+                
+                
+                
+                
+                AND ( (1) )
+                
+                
+                
+                
+            GROUP BY
+                wpko_posts.ID
+            ORDER BY  group_priority DESC,  priority DESC, p_type_priority ASC, wpko_posts.post_title ASC, relevance DESC, id DESC
+            LIMIT 10000 made by do_action('ASP_ajaxsearchpro_search'), WP_Hook->do_action, WP_Hook->apply_filters, WD_ASP_Search_Handler->handle, ASP_Query->__construct, ASP_Query->get_posts, ASP_Search->search, ASP_Search_CPT->do_search
+[18-Apr-2023 08:01:50 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') )
+                
+                
+                
+                
+...' at line 68 for query 
+    		SELECT
+    		    
+    		    
+                wpko_posts.post_title as title,
+                wpko_posts.post_title as post_title,
+                wpko_posts.ID as id,
+                1 as blogid,
+                wpko_posts.post_date as date,
+                wpko_posts.post_date as post_date,
+                wpko_posts.post_content as content,
+                wpko_posts.post_excerpt as excerpt,
+                wpko_posts.post_type as post_type,
+                'pagepost' as content_type,
+                'post_page_cpt' as g_content_type,
+                (SELECT
+                    wpko_users.display_name as author
+                    FROM wpko_users
+                    WHERE wpko_users.ID = wpko_posts.post_author
+                ) as author,
+                wpko_posts.post_author as post_author,
+                wpko_posts.post_type as post_type,
+                100 AS priority,
+                
+                        CASE wpko_posts.post_type
+                     
+                    WHEN 'post' THEN 0 
+                    WHEN 'page' THEN 1 
+                    WHEN 'attachment' THEN 2 
+                    WHEN 'revision' THEN 3 
+                    WHEN 'nav_menu_item' THEN 4 
+                    WHEN 'custom_css' THEN 5 
+                    WHEN 'customize_changeset' THEN 6 
+                    WHEN 'oembed_cache' THEN 7 
+                    WHEN 'user_request' THEN 8 
+                    WHEN 'wp_block' THEN 9 
+                    WHEN 'wp_template' THEN 10 
+                    WHEN 'wp_template_part' THEN 11 
+                    WHEN 'wp_global_styles' THEN 12 
+                    WHEN 'wp_navigation' THEN 13 
+                    WHEN 'wpforms' THEN 14 
+                    WHEN 'scheduled-action' THEN 15 
+                    WHEN 'wpforms_log' THEN 16 
+                    WHEN 'acf-field-group' THEN 17 
+                    WHEN 'acf-field' THEN 18 
+                    WHEN 'custom-css-js' THEN 19 
+                    WHEN 'trending_categories' THEN 20 
+                    WHEN 'vc_grid_item' THEN 21 
+                    WHEN 'vector_logo' THEN 22 
+                    WHEN 'vc4_templates' THEN 23 
+                          ELSE 999
+                        END  AS p_type_priority,
+                1 AS group_priority,
+                (1) as relevance,
+                1  as customfp,
+                1  as customfs
+            FROM wpko_posts
+                
+                
+                
+                
+            WHERE
+                (wpko_posts.post_type IN ('vector_logo') )
+                
+                
+                AND (1)
+                AND (wpko_posts.post_status IN ('publish') )
+                 AND ( wpko_posts.post_password = '' )
+                AND ( () )
+                
+                
+                
+                
+                AND ( (1) )
+                
+                
+                
+                
+            GROUP BY
+                wpko_posts.ID
+            ORDER BY  group_priority DESC,  priority DESC, p_type_priority ASC, wpko_posts.post_title ASC, relevance DESC, id DESC
+            LIMIT 10000 made by do_action('ASP_nopriv_ajaxsearchpro_search'), WP_Hook->do_action, WP_Hook->apply_filters, WD_ASP_Search_Handler->handle, ASP_Query->__construct, ASP_Query->get_posts, ASP_Search->search, ASP_Search_CPT->do_search
+[25-May-2023 09:55:22 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/zarghamali/public_html/vectorseek.com/staging/wp-content/themes/xtra/functions.php on line 2085
+[01-Jun-2023 07:08:04 UTC] PHP Fatal error:  Uncaught Error: Class 'WD_ASP_Ajax' not found in /home/zarghamali/public_html/vectorseek.com/staging/wp-content/plugins/ajax-search-pro/ajax_search.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/staging/wp-content/plugins/ajax-search-pro/ajax_search.php on line 34

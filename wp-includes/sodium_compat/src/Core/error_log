@@ -1,0 +1,168 @@
+[24-Jan-2022 20:24:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[24-Jan-2022 20:24:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/src/Core/Ed25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/src/Core/Ed25519.php on line 10
+[24-Jan-2022 20:25:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[24-Jan-2022 20:26:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[24-Jan-2022 20:26:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[24-Jan-2022 20:27:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[24-Jan-2022 20:27:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[24-Jan-2022 20:28:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[24-Jan-2022 20:29:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[24-Jan-2022 20:30:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[24-Jan-2022 20:30:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[24-Jan-2022 20:31:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[24-Jan-2022 20:32:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[28-Jan-2022 00:47:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[14-Feb-2022 09:18:10 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[14-Feb-2022 09:19:30 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[14-Feb-2022 09:22:08 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[14-Feb-2022 09:27:59 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/Ed25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/Ed25519.php on line 10
+[14-Feb-2022 10:43:17 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[14-Feb-2022 10:45:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[14-Feb-2022 10:50:21 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[14-Feb-2022 13:48:35 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[14-Feb-2022 13:49:59 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[14-Feb-2022 13:57:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[15-Feb-2022 05:57:59 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[15-Feb-2022 05:58:20 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[15-Feb-2022 05:59:01 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[26-Feb-2022 23:45:03 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[27-Feb-2022 11:47:50 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[27-Feb-2022 12:15:08 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[27-Feb-2022 12:16:02 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[27-Feb-2022 12:16:39 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[27-Feb-2022 12:17:10 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[27-Feb-2022 12:18:18 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[27-Feb-2022 12:19:44 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[27-Feb-2022 12:27:18 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[27-Feb-2022 12:29:02 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[27-Feb-2022 12:29:34 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/Ed25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/Ed25519.php on line 10
+[27-Feb-2022 12:32:49 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[27-Feb-2022 12:35:06 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[01-Nov-2022 22:36:28 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[01-Nov-2022 22:36:29 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16

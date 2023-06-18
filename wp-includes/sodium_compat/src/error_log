@@ -1,0 +1,16 @@
+[24-Jan-2022 20:23:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/src/File.php on line 9
+[26-Feb-2022 14:20:31 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/File.php on line 9
+[05-Oct-2022 09:40:46 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/File.php on line 9
+[31-Jan-2023 01:55:55 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/src/File.php on line 9

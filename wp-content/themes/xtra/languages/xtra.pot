@@ -1,0 +1,240 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Xtra v1.0\n"
+"POT-Creation-Date: 2020-06-15 13:26+0430\n"
+"PO-Revision-Date: 2018-02-12 17:51+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;_n;esc_html_e;esc_attr_e;_n_noop;esc_html__;"
+"esc_attr__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/class-dashboard.php:86
+msgid "Welcome"
+msgstr ""
+
+#: classes/class-dashboard.php:89
+msgid "Install Plugins"
+msgstr ""
+
+#: classes/class-dashboard.php:95 classes/class-dashboard.php:99
+msgid "Demo Importer"
+msgstr ""
+
+#: classes/class-dashboard.php:104
+msgid "Theme Options"
+msgstr ""
+
+#: classes/class-dashboard.php:107
+msgid "Documentation & Support"
+msgstr ""
+
+#: classes/class-dashboard.php:659
+msgid "PHP 7.2 recommended"
+msgstr ""
+
+#: classes/class-dashboard.php:659 classes/class-dashboard.php:660
+#: classes/class-dashboard.php:661
+msgid "Good"
+msgstr ""
+
+#: classes/class-dashboard.php:660
+msgid "128M recommended"
+msgstr ""
+
+#: classes/class-dashboard.php:661
+msgid "60 recommended"
+msgstr ""
+
+#: classes/class-tgmpa.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+#: classes/class-tgmpa.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+#: classes/class-tgmpa.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to "
+"ensure maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: classes/class-tgmpa.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr ""
+
+#: classes/class-tgmpa.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+#: classes/class-tgmpa.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+#: classes/class-tgmpa.php:371
+msgid "Begin installing plugin"
+msgstr ""
+
+#: classes/class-tgmpa.php:376
+msgid "Begin updating plugin"
+msgstr ""
+
+#: classes/class-tgmpa.php:381
+msgid "Begin activating plugin"
+msgstr ""
+
+#: classes/class-tgmpa.php:522
+msgid ""
+"This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: classes/class-tgmpa.php:523
+msgid "Update Required"
+msgstr ""
+
+#: classes/class-tgmpa.php:827 classes/class-tgmpa.php:2533
+#: classes/class-tgmpa.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: classes/class-tgmpa.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired "
+"slug and renaming did not work."
+msgstr ""
+
+#: classes/class-tgmpa.php:934 classes/class-tgmpa.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their "
+"plugin according to the WordPress guidelines."
+msgstr ""
+
+#: classes/class-tgmpa.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the "
+"files are not packaged in a folder."
+msgstr ""
+
+#: classes/class-tgmpa.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: classes/class-tgmpa.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: classes/class-tgmpa.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: classes/class-tgmpa.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: classes/class-tgmpa.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: classes/class-tgmpa.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: classes/class-tgmpa.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: classes/class-tgmpa.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: classes/class-tgmpa.php:3509 classes/class-tgmpa.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: classes/class-tgmpa.php:3509 classes/class-tgmpa.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: classes/class-tgmpa.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: functions.php:84
+msgid "Codevz Plus"
+msgstr ""
+
+#: functions.php:90
+msgid "WPBakery Page Builder"
+msgstr ""
+
+#: functions.php:90 functions.php:96
+msgid "[Theme activation is required]"
+msgstr ""
+
+#: functions.php:96
+msgid "Revolution Slider"
+msgstr ""
+
+#: functions.php:102
+msgid "Woocommerce"
+msgstr ""
+
+#: functions.php:106
+msgid "Contact Form 7"
+msgstr ""
+
+#: functions.php:110
+msgid "Autoptimize"
+msgstr ""
+
+#: functions.php:114
+msgid "EWWW Image Optimizer"
+msgstr ""
+
+#: functions.php:173
+msgid "Primary"
+msgstr ""
+
+#: functions.php:421
+msgid "Add widgets here to appear in your"
+msgstr ""
+
+#: functions.php:1040
+msgid "Remove"
+msgstr ""
+
+#: functions.php:1654
+msgid "Author posts"
+msgstr ""
+
+#: functions.php:1742
+msgid "View all posts"
+msgstr ""
+
+#: functions.php:2603
+msgid "Multipurpose Theme"
+msgstr ""
+
+#: functions.php:2604
+msgid "XtraTheme"
+msgstr ""

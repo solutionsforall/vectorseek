@@ -1,0 +1,6 @@
+<?php if(get_field('select_type_of_post')=="Brand Logos"){
+										echo '<span style="position: relative; left:114px; top:33px; z-index: 2;background-color: black;color: white;padding: 5px; user-select: none; font-size: 13px;border-radius: 3px;">Brand</span>';
+									}
+											else{
+												echo '<span style="position: relative; left:87px; top:33px; z-index: 2;background-color: black;color: white;padding: 5px; user-select: none; font-size: 13px;border-radius: 3px;">Template</span>';
+											}?>

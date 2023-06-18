@@ -1,0 +1,16 @@
+[15-Mar-2022 05:15:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Requests_Hooker' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/Requests/Hooks.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/Requests/Hooks.php on line 15
+[21-Mar-2022 04:22:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'Requests_Hooker' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/Requests/Hooks.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/Requests/Hooks.php on line 15
+[05-Oct-2022 07:41:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Requests_Hooker' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/Requests/Hooks.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/Requests/Hooks.php on line 15
+[30-Oct-2022 06:31:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Requests_Hooker' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/Requests/Hooks.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/Requests/Hooks.php on line 15

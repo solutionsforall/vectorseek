@@ -1,0 +1,16 @@
+[24-Jan-2022 20:22:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305_State' not found in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php on line 4
+[24-Jan-2022 20:28:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305_State' not found in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ftsurncp/vectorseek.com/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php on line 4
+[27-Feb-2022 18:47:45 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305_State' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php on line 4
+[06-Apr-2022 16:00:47 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305_State' not found in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/zarghamali/public_html/vectorseek.com/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php on line 4
